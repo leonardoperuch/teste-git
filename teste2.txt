@@ -1,2 +1,4 @@
 teste2
 nova linha - alterando remotamente
+nova linha - também alterei o arquivo
+adicionado nova linha 3
